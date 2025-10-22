@@ -7,12 +7,12 @@ Project Overview
 This project implements a playlist management system using a Binary Search Tree (BST) in Java. Each track in the playlist is stored as a node in the BST, allowing efficient searching, insertion, and deletion of tracks.
 
 The playlist is organized alphabetically by track title, and supports various operations including:
-	•	Inserting new tracks
-	•	Deleting tracks
-	•	Searching for tracks
-	•	Displaying all tracks in alphabetical order
-	•	Calculating the height of the playlist BST
-	•	Clearing the entire playlist
+Inserting new tracks
+Deleting tracks
+Searching for tracks
+Displaying all tracks in alphabetical order
+Calculating the height of the playlist BST
+Clearing the entire playlist
 
 Files in the Project
 1.	Track.java
